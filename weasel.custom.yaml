@@ -1,0 +1,7 @@
+patch:
+  style/horizontal: true               # true 横向 | false 竖向
+  style/color_scheme: lost_temple       # 默认配色方案
+  style/color_scheme_dark: lost_temple  # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
+  style/font_face: "Segoe UI Emoji, LXGW WenKai Mono GB Screen, LXGW WenKai Mono, Microsoft YaHei, SF Pro, Noto Color Emoji"  # 全局字体
+  style/label_font_face: "LXGW WenKai Mono GB Screen, LXGW WenKai Mono, Microsoft YaHei"      # 标签字体
+  style/comment_font_face: "LXGW WenKai Mono GB Screen, LXGW WenKai Mono, Microsoft YaHei"     # 注释字体
