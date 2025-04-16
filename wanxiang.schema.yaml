@@ -62,7 +62,7 @@ switches:
     #states: [ 奇, 墨 ]   #这里需要自己更换，wanxiang_lookup.dict.yaml默认放的是自然码的拆分
   - name: super_tips
     states: [ off, tips ]
-    reset: 1
+    reset: 0
   - name: prediction
     states: [ 测, 预 ]
     reset: 0
